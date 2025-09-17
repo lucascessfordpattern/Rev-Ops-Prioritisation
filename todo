@@ -3,13 +3,17 @@ https://lucascessfordpattern.github.io/Rev-Ops-Prioritisation/
 
 |name|request|status|time|desc|
 
-#### ⚙️ Open Tasks
----
+#### 🏡 home tasks
+--- 
+- [ ] return adaptor
+- [ ] 
 
+#### ⚙️ work tasks
+---
 Personal list which should not include the tasks in index.md, but can include subtasks of those tasks for tracking if needed
 - [ ] Message US team about coming over
 - [ ] Fix up the growth opportunity graph with custom
 - [ ] Scrape test
 - [ ] Weekly prioritisation list with all stakeholders, casey should be asking charlie not me
-- [ ] Category explorer show JSP,dan,alice - naturesbest
+- [ ] Category explorer show JSP, Dan, Alice - naturesbest
 - [ ] move everything over to N8N
