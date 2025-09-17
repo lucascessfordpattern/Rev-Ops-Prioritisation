@@ -1,9 +1,27 @@
-Welcome to https://lucascessfordpattern.github.io/Rev-Ops-Prioritisation/
+
+## Prioritisation Matrix
+---
 
 Here you are able to see the current prioritisation of tech requested to be created by Lucas Cessford
 
 #### ⚙️ Open Tasks
+
+| Requestor | Request | Status | Time Est. | Description |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Goutham & Chris | Build category explorer global view | in progress | status | Goutham & Chris have requested that Category Insights data be made available to global audience. US customers have more data so they have an enriched version, but for global customers, no service was yet available |
+| Joe W | n8n Outreach Automation | in progress  | 5 days | Joe has requested an automation to be build which will allow him to have AI draft data enriched emails from kitchen. He will be able to list out the brands he wants to generate outreach emails for. AI will draft up the emails with tone being set based off of an engineered prompt. |
+|  | Request | Description | time estimate | status |
+
+
 ---
+
+#### ✅ Closed Tasks
+
+|   | Requestor | Request | Status | Time Est. | Description |
+|--- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| - [x] | Joe W | n8n Outreach Automation | in progress  | 5 days | Joe has requested an automation to be build which |
+| - [x] | Requestor | Request | Description | time estimate | status |
+
 - [ ] Message US team about coming over
 - [ ] US implementation of the PAR
 - [ ] Fix up the growth opportunity graph with custom
@@ -12,11 +30,11 @@ Here you are able to see the current prioritisation of tech requested to be crea
 - [ ] weekly prioritisation list with all stakeholders, casey should be asking charlie not me
 - [ ] category explorer show JSP,dan,alice - naturesbest
 
-##### 16/09/25
-- [X] added EFN into the PAR auto
+
+- [X] 16/09/25 added EFN into the PAR auto
  
-##### 15/09/25
-- [X] feature commit - units, sales, glance views by month by country by category https://sellercentral.amazon.co.uk/selection/category-insights
+##### 
+- [X] - 15/09/25 - feature commit - units, sales, glance views by month by country by category https://sellercentral.amazon.co.uk/selection/category-insights
 
 ##### 11/09/25
 - [X] updated google automations so you don't need to log in each time
@@ -53,12 +71,3 @@ Here you are able to see the current prioritisation of tech requested to be crea
 
 ##### 30/07/25
 - [x] Finish up charts for Kelly and present to her. told by Jayson that all salesforce data are views that we are allowed to use for some reason. all in analytics_db -> stg.salesforce
-- [x] Let Charlie & Max know that the changes should be done now
-- [x] Let Chris know about market share
-- [x] Get Jayson to have a look at the mind map
-- [x] Ask Jayson about slide automation
-- [x] Ask Jayson about the ASIN LBB to see what the deal is there
-- [x] Add back in Market Share for EU - if there are any questions about market share, go to Nate
-
-##### 29/07/25
-- [x] Show Charlie the automation
