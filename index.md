@@ -1,9 +1,7 @@
 
-## Prioritisation Matrix
----
 Here you are able to see the current prioritisation of tech requested to be created by Lucas Cessford
 
-#### ⚙️ Open Tasks 
+## ⚙️ Open Tasks 
 
 **Tasks are in order of priority** - Should you feel that your task needs prioritising, please reach out to Charlie Bevis for escalation and I will be happy to prioritise accordingly.
 
@@ -15,7 +13,7 @@ Here you are able to see the current prioritisation of tech requested to be crea
 | Max | add US to grandpar | queued | 5 days | After the success of the European PAR automation, Max would like it extended to cover the US use case. This can be migrated to N8N for improved usability |
 
 ---
-#### ✅ Closed Tasks
+## ✅ Closed Tasks
 
 | Date | Requestor | Request | Time taken. | Description |
 | --- | ----------- | ----------- | ----------- | ----------- |
