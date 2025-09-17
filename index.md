@@ -1,11 +1,8 @@
-#### 📙 Notes
+Welcome to https://lucascessfordpattern.github.io/Rev-Ops-Prioritisation/
 
+Here you are able to see the current prioritisation of tech requested to be created by Lucas Cessford
 
-#### 🏡 Home
----
-
-
-#### ⚙️ Work Tasks
+#### ⚙️ Open Tasks
 ---
 - [ ] Message US team about coming over
 - [ ] US implementation of the PAR
@@ -15,44 +12,44 @@
 - [ ] weekly prioritisation list with all stakeholders, casey should be asking charlie not me
 - [ ] category explorer show JSP,dan,alice - naturesbest
 
-#### 16/09/25
+##### 16/09/25
 - [X] added EFN into the PAR auto
  
-#### 15/09/25
+##### 15/09/25
 - [X] feature commit - units, sales, glance views by month by country by category https://sellercentral.amazon.co.uk/selection/category-insights
 
-#### 11/09/25
+##### 11/09/25
 - [X] updated google automations so you don't need to log in each time
 
-#### 10/09/25
+##### 10/09/25
 - [X] acceleration plans from growth opportunity, 
 - [X] requests made in the last 12 months for uk,de,fr,it,es from sales suite
 - [X] check feedback
 
-#### 27/08/25
+##### 27/08/25
 - [X] Add in cte_9 for PAR auto for historic price and reference fee 
 - [X] automate only up to one sheet PAR
 
-#### 26/08/25
+##### 26/08/25
 - [X] Fix Max's par issue
 - [X] Add in all the marketing queries to the repo. they are out of date
 - [X] get Kelly's request working. conviction count is currently at 7200
 
-#### 21/08/2025
+##### 21/08/2025
 - [X] PAR NEXT STEPS: Ethan chat about pl GBP, waiT for EFN change, enforce new field on right, enforce lock on sheet if needed, tidy up any issues.
 
-#### 19/08/2025
+##### 19/08/2025
 - [X] Give Lily's Salesforce task a go solo..
 
-#### 18/08/25
+##### 18/08/25
 - [X] Max P - PAR automation delivered for stage 1
 
-#### 15/08/25
+##### 15/08/25
 - [X] ask Andrew who should add in the fact that is EFN or hazmat is true, then we need to pull not FBA fees, the EFN fees, so we can do it at ASIN level. if we add in the if to the fba cells, is it gonna be an issue in the rest of the par
 - [X] ask Andrew about smartscout data for EMEA, can we start using it  ? is it in snowflake? how does it work for US with Seller Central
 
-#### 12/08/25
-- [X] Get the first chunk of PAR model automated
+##### 12/08/25
+- [X] Get the first section of PAR model automated
 
 ##### 30/07/25
 - [x] Finish up charts for Kelly and present to her. told by Jayson that all salesforce data are views that we are allowed to use for some reason. all in analytics_db -> stg.salesforce
