@@ -7,6 +7,7 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 | Requestor | Request | Status | Time Est. | Description |
 | --- | ---| --- | --- | ---|
+| Casey & Charlie| International Summary on Sales-Kitchen| urgent in progress | 2 days | International Summary urgently required by the US team for presentations involving Dave |
 | Goutham & Chris | Build category explorer global view | in progress | 7 days | Goutham & Chris have requested that Category Insights data be made available to global audience. US customers have more data so they have an enriched version, but for global customers, no service was yet available |
 | Joe W | N8N Outreach Automation | in progress  | 5 days | Joe has requested an automation to be build which will allow him to have AI draft data enriched emails from kitchen. He will be able to list out the brands he wants to generate outreach emails for. AI will draft up the emails with tone being set based off of an engineered prompt. |
 | Collin G | Ads Analysis Improvements | queued | - | Collin is spending considerable time (sometimes up to 3 or 4 hours a day) running Ads analysis manually. Sales-Kitchen could be used to improve the speed, making the analysis immediate for his use case | 
@@ -16,7 +17,7 @@ Here you are able to see the current prioritisation of tech requested to be deve
 | Lily Z | Create Contacts Lead Report | queued | 1 day | list of all contacts with an EMEA score above 210. This should a new tab called MQL in lily's report |
 
 ---
-## ✅ Closed Tasks
+### ✅ Closed Tasks
 
 | Date | Requestor | Request | Time taken. | Description |
 | --- | --- | --- | --- | --- |
@@ -25,7 +26,7 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 
 ---
- ## 📋 Current Instruction on Prioritisation
+## 📋 Current Instruction on Prioritisation
 
 This is the instruction that has been provided on how to prioritise requests.
 Feel free to use these instructions to support a case in escalation.
