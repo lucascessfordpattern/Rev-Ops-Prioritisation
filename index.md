@@ -19,8 +19,8 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 | Date | Requestor | Request | Time taken. | Description |
 | --- | --- | --- | --- | --- |
-| 03/10/25 | Casey & Charlie| International Summary on Sales-Kitchen| Hypercare | 5 days | International Summary urgently required by the US team for presentations involving Dave |
-| 03/10/25 | Goutham & Chris | Build category explorer global view | Hypercare | 5 days | Goutham & Chris have requested that Category Insights data be made available to global audience. US customers have more data so they have an enriched version, but for global customers, no service was yet available |
+| 03/10/25 | Casey & Charlie| International Summary on Sales-Kitchen | 5 days | International Summary urgently required by the US team for presentations involving Dave |
+| 03/10/25 | Goutham & Chris | Build category explorer global view | 5 days | Goutham & Chris have requested that Category Insights data be made available to global audience. US customers have more data so they have an enriched version, but for global customers, no service was yet available |
 | 12/08/25 | Max P | Automate PAR | 10 days | EU PAR's were taking too long because of excel complexity. This needs to turned into an SQL pipeline for speed and efficiency |
 | 30/07/25 | Kelly | Automate Marketing Reporting | 10 days | to prove the successes of the team, stage 1 and 2's needed to be tracked, which is a manual process and can be automated |
 
