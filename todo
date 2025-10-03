@@ -4,18 +4,32 @@ https://lucascessfordpattern.github.io/Rev-Ops-Prioritisation/
 
 #### 🏡 home tasks
 ---
-- [ ] return adaptor
-- [ ] get controller
+
 
 #### ⚙️ work tasks
 ---
 Personal list which should not include the tasks in index.md, but can include subtasks of those tasks for tracking if needed
 - [ ] Fix up the growth opportunity graph with custom
 - [ ] Scrape test
-- [ ] Category explorer show JSP, Dan, Alice - naturesbest
 - [ ] move everything over to N8N
-- [ ] ask Andrew about market share section, makes no sense
-- [ ] finish international view - move to trunc V2 for the softy view, then need to check buybox % thing, then think it's done
 - [ ] need to understand what the situation is with US category data and the rest of the data. I need to see it mapped
-- [ ] host a meeting to demonstrate the new functionality of global category view
+- [ ] host a meeting to demonstrate the new functionality of global category view - Category explorer show JSP, Dan, Alice - naturesbest
+- [ ] get the travel ESTA sorted
 
+
+
+####
+US TRIP
+
+TOPICS
+- Smartscout - MENA data now being collected apparently, could be useful? Shall we use it anytway? EU team use it anyway, but not considered accurate in the US
+
+- Sous Chef
+
+- Phil and Nate - Metaflow and cloud education 
+
+- ads analysis with Collin 
+
+- general education on everything that happens BEFORE Snowflake. no idea how these tables come in. maybe tie this in with keepa
+
+- basic reason I am going is that I still dont have any proper induction into the pattern rev ops tech in its totality. I need a proper education on it so I can help more
