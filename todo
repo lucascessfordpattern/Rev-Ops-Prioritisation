@@ -12,7 +12,7 @@ Personal list which should not include the tasks in index.md, but can include su
 - [ ] Fix up the growth opportunity graph with custom
 - [ ] Scrape test
 - [ ] move everything over to N8N
-- [ ] need to understand what the situation is with US category data and the rest of the data. I need to see it mapped
+- [ ] need to understand what the situation is with US category data and the rest of the data. I need to see it mapped.
 
 
 ####
@@ -23,12 +23,24 @@ TOPICS
 - Sous Chef
 - Phil and Nate - Metaflow and cloud education 
 - ads analysis with Collin 
-- general education on everything that happens BEFORE Snowflake. no idea how these tables come in. maybe tie this in with keepa
-- basic reason I am going is that I still dont have any proper induction into the pattern rev ops tech in its totality. I need a proper education on it so I can help more
 - scraping - can I get it up and running 
 - slide automation - to learn how the slides automation stuff works in Sales Kitchen
-- ask casey about resourcing in US and EU for tech
 - go to swig
+
+
+keepa - what is the actual story? How does the data come in? what tables? what is this whole millions of lines per country bla bla bla
+category data - how does it work? we have different categories in each country right? and we also have categories organised in heirarchies, and some of our category data is just as far as I understand, dumped into comparing all of them?
+
+buybox - why is it making things slow? what is the architecture of buybox vs other keepa data that makes it so unique?
+
+well the buybox WAS done at the parent asin level, within a parent asin you may have 40 variants in size, pack, colour, etc.
+
+nowadays we have the bucketed 800 sold this week thing.
+
+how come andrew knows where all the tables are etc?
+
+SEO score is a measure of completeness, not how successful your SEO is
+same with image score
 
 
 

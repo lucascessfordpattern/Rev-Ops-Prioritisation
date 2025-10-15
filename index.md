@@ -17,6 +17,7 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 | Date | Requestor | Request | Time taken. | Description |
 | --- | --- | --- | --- | --- |
+| 15/10/25 | Andrew H | Seller Central Kitchen | 4 days | Seller Central API connections now live in snowflake, so we are going to need to exploit the data in Kitchen |
 | 08/10/25 | Joe W | N8N Outreach Automation | 5 days | Joe has requested an automation to be build which will allow him to have AI draft data enriched emails from kitchen. He will be able to list out the brands he wants to generate outreach emails for. AI will draft up the emails with tone being set based off of an engineered prompt. |
 | 03/10/25 | Casey & Charlie| International Summary on Sales-Kitchen | 5 days | International Summary urgently required by the US team for presentations involving Dave |
 | 03/10/25 | Goutham & Chris | Build category explorer global view | 5 days | Goutham & Chris have requested that Category Insights data be made available to global audience. US customers have more data so they have an enriched version, but for global customers, no service was yet available |
