@@ -6,7 +6,8 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 | Requestor | Request | Status | Time Est. | Description |
 | --- | ---| --- | --- | ---|
-| Collin G | Ads Analysis Improvements | queued | - | Collin is spending considerable time (sometimes up to 3 or 4 hours a day) running Ads analysis manually. Sales-Kitchen could be used to improve the speed, making the analysis immediate for his use case | 
+| Andrew H | Vendor Central Addition | Hypercare | 7 days | Addition to Seller Central to include Vendor Central - particularly useful to EMEA stakeholders. May also touch on PAR topics |
+| Collin G | Ads Analysis Improvements | In Progress | 5 days | Collin is spending considerable time (sometimes up to 3 or 4 hours a day) running Ads analysis manually. Sales-Kitchen could be used to improve the speed, making the analysis immediate for his use case | 
 | Max | Add US to Grandpar | queued | 5 days | After the success of the European PAR automation, Max would like it extended to cover the US use case. This can be migrated to N8N for improved usability |
 | Finn | Automated Deck generation | queued| 12 days | Finn spends alot of time generating slides for stakeholders, which ends up being manual and slow. Automated deck creation from Sales-Kitchen visuals would speed up his productivity dramatically |
 | Lily Z | Rebuild Site Scraping | queued | 6 days | Site scraping for events was being used regularly by Lily, but the code is only partly working and needs rebuilding and debugging |

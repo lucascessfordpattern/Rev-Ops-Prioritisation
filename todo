@@ -5,6 +5,9 @@ https://lucascessfordpattern.github.io/Rev-Ops-Prioritisation/
 #### 🏡 home tasks
 ---
 
+- [ ] valpolicella classico
+- [ ] patagonian pinot noir
+
 
 #### ⚙️ work tasks
 ---
@@ -12,35 +15,13 @@ Personal list which should not include the tasks in index.md, but can include su
 - [ ] Fix up the growth opportunity graph with custom
 - [ ] Scrape test
 - [ ] move everything over to N8N
-- [ ] need to understand what the situation is with US category data and the rest of the data. I need to see it mapped.
+- [ ] add the scorecard to the scorecard page
 
 
 ####
 US TRIP
+in sales suite, the file softy.py has a commented out section which you can use to test the back end of sales suite
 
-TOPICS
-- Smartscout - MENA data now being collected apparently, could be useful? Shall we use it anytway? EU team use it anyway, but not considered accurate in the US
-- Sous Chef
-- Phil and Nate - Metaflow and cloud education 
-- ads analysis with Collin 
-- scraping - can I get it up and running 
-- slide automation - to learn how the slides automation stuff works in Sales Kitchen
-- go to swig
-
-
-keepa - what is the actual story? How does the data come in? what tables? what is this whole millions of lines per country bla bla bla
-category data - how does it work? we have different categories in each country right? and we also have categories organised in heirarchies, and some of our category data is just as far as I understand, dumped into comparing all of them?
-
-buybox - why is it making things slow? what is the architecture of buybox vs other keepa data that makes it so unique?
-
-well the buybox WAS done at the parent asin level, within a parent asin you may have 40 variants in size, pack, colour, etc.
-
-nowadays we have the bucketed 800 sold this week thing.
-
-how come andrew knows where all the tables are etc?
-
-SEO score is a measure of completeness, not how successful your SEO is
-same with image score
 
 
 
