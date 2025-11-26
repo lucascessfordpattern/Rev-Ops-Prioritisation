@@ -6,10 +6,11 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 | Requestor | Request | Status | Time Est. | Description |
 | --- | ---| --- | --- | ---|
-| Andrew H | Vendor Central Addition | Hypercare | 7 days | Addition to Seller Central to include Vendor Central - particularly useful to EMEA stakeholders. May also touch on PAR topics |
-| Collin G | Ads Analysis Improvements | In Progress | 5 days | Collin is spending considerable time (sometimes up to 3 or 4 hours a day) running Ads analysis manually. Sales-Kitchen could be used to improve the speed, making the analysis immediate for his use case | 
-| Max | Add US to Grandpar | queued | 5 days | After the success of the European PAR automation, Max would like it extended to cover the US use case. This can be migrated to N8N for improved usability |
-| Finn | Automated Deck generation | queued| 12 days | Finn spends alot of time generating slides for stakeholders, which ends up being manual and slow. Automated deck creation from Sales-Kitchen visuals would speed up his productivity dramatically |
+| Collin G | Ads Analysis Improvements | In Progress | 20 days | Collin is spending considerable time (sometimes up to 3 or 4 hours a day) running Ads analysis manually. Sales-Kitchen could be used to improve the speed, making the analysis immediate for his use case | 
+| Andrew H | Ops Analysis | Queued | 10 days | Brands have requested ops analysis so a page will be built in Kitchen | 
+| Finn | Automated Deck generation | Queued| 5 days | Finn spends alot of time generating slides for stakeholders, which ends up being manual and slow. Automated deck creation from Sales-Kitchen visuals would speed up his productivity dramatically |
+| Max | Add US to Grandpar | Queued | 5 days | After the success of the European PAR automation, Max would like it extended to cover the US use case. This can be migrated to N8N for improved usability |
+
 | Lily Z | Rebuild Site Scraping | queued | 6 days | Site scraping for events was being used regularly by Lily, but the code is only partly working and needs rebuilding and debugging |
 | Lily Z | Create Contacts Lead Report | queued | 1 day | list of all contacts with an EMEA score above 210. This should a new tab called MQL in lily's report |
 
@@ -18,6 +19,8 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 | Date | Requestor | Request | Time taken. | Description |
 | --- | --- | --- | --- | --- |
+| 24/11/25 | Kelly P | Lead Automation | 1 day | Created N8N flow to automate lead generation matching with accounts and account information for Marketing team |
+| 11/11/25 | Andrew H | Vendor Central Addition | 15 days | Addition to Seller Central to include Vendor Central - particularly useful to EMEA stakeholders, used in JBP too. May also touch on PAR topics |
 | 15/10/25 | Andrew H | Seller Central Kitchen | 4 days | Seller Central API connections now live in snowflake, so we are going to need to exploit the data in Kitchen |
 | 08/10/25 | Joe W | N8N Outreach Automation | 5 days | Joe has requested an automation to be build which will allow him to have AI draft data enriched emails from kitchen. He will be able to list out the brands he wants to generate outreach emails for. AI will draft up the emails with tone being set based off of an engineered prompt. |
 | 03/10/25 | Casey & Charlie| International Summary on Sales-Kitchen | 5 days | International Summary urgently required by the US team for presentations involving Dave |
