@@ -6,11 +6,11 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 | Requestor | Request | Status | Time Est. | Description |
 | --- | ---| --- | --- | ---|
-| Collin G | Ads Analysis Improvements | In Progress | 20 days | Collin is spending considerable time (sometimes up to 3 or 4 hours a day) running Ads analysis manually. Sales-Kitchen could be used to improve the speed, making the analysis immediate for his use case | 
-| Andrew H | Ops Analysis | Queued | 10 days | Brands have requested ops analysis so a page will be built in Kitchen | 
-| Finn | Automated Deck generation | Queued| 5 days | Finn spends alot of time generating slides for stakeholders, which ends up being manual and slow. Automated deck creation from Sales-Kitchen visuals would speed up his productivity dramatically |
+| Collin G | Ads Analysis Improvements | Hypercare | 20 days | Collin is spending considerable time (sometimes up to 3 or 4 hours a day) running Ads analysis manually. Sales-Kitchen could be used to improve the speed, making the analysis immediate for his use case | 
+| Andrew H | Ops Analysis | In Progress | 10 days | Brands have requested ops analysis so a page will be built in Kitchen | 
+| Jon Mcgee | Auto Slides - Overview | queued | 10 days | Automatic exporting of Pattern themed slides with Overview data | 
+| Finn | Automated Deck generation | Queued | 5 days | Finn spends alot of time generating slides for stakeholders, which ends up being manual and slow. Automated deck creation from Sales-Kitchen visuals would speed up his productivity dramatically |
 | Max | Add US to Grandpar | Queued | 5 days | After the success of the European PAR automation, Max would like it extended to cover the US use case. This can be migrated to N8N for improved usability |
-
 | Lily Z | Rebuild Site Scraping | queued | 6 days | Site scraping for events was being used regularly by Lily, but the code is only partly working and needs rebuilding and debugging |
 | Lily Z | Create Contacts Lead Report | queued | 1 day | list of all contacts with an EMEA score above 210. This should a new tab called MQL in lily's report |
 
