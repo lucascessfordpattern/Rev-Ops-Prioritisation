@@ -6,7 +6,6 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 | Requestor | Request | Status | Time Est. | Description |
 | --- | ---| --- | --- | ---|
-| Collin G | Ads Analysis Improvements | Hypercare | 20 days | Collin is spending considerable time (sometimes up to 3 or 4 hours a day) running Ads analysis manually. Sales-Kitchen could be used to improve the speed, making the analysis immediate for his use case | 
 | Andrew H | Ops Analysis | In Progress | 10 days | Brands have requested ops analysis so a page will be built in Kitchen | 
 | Jon Mcgee | Auto Slides - Overview | queued | 10 days | Automatic exporting of Pattern themed slides with Overview data | 
 | Finn | Automated Deck generation | Queued | 5 days | Finn spends alot of time generating slides for stakeholders, which ends up being manual and slow. Automated deck creation from Sales-Kitchen visuals would speed up his productivity dramatically |
@@ -19,6 +18,7 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 | Date | Requestor | Request | Time taken. | Description |
 | --- | --- | --- | --- | --- |
+| 12/12/25 | Collin G | Ads Analysis Improvements | 20 days | Collin was spending considerable time (sometimes up to 3 or 4 hours a day) running Ads analysis manually. Sales-Kitchen now can generate automated slide decks | 
 | 24/11/25 | Kelly P | Lead Automation | 1 day | Created N8N flow to automate lead generation matching with accounts and account information for Marketing team |
 | 11/11/25 | Andrew H | Vendor Central Addition | 15 days | Addition to Seller Central to include Vendor Central - particularly useful to EMEA stakeholders, used in JBP too. May also touch on PAR topics |
 | 15/10/25 | Andrew H | Seller Central Kitchen | 4 days | Seller Central API connections now live in snowflake, so we are going to need to exploit the data in Kitchen |
@@ -38,4 +38,3 @@ Feel free to use these instructions to support a case in escalation.
  - Tasks that generate revenue over tasks that save time will be prioritised
  - Tasks that save more time than other tasks will be prioritised
  - With the release of N8N within the organisation, tasks that could be automated without support will be deprioritised
-
