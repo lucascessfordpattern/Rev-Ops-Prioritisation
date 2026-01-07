@@ -6,8 +6,7 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 | Requestor | Request | Status | Time Est. | Description |
 | --- | ---| --- | --- | ---|
-| Andrew H | Ops Analysis | In Progress | 10 days | Brands have requested ops analysis so a page will be built in Kitchen | 
-| Jon Mcgee | Auto Slides - Overview | queued | 10 days | Automatic exporting of Pattern themed slides with Overview data | 
+| Jon Mcgee | Auto Slides - Overview | In Progress | 10 days | Automatic exporting of Pattern themed slides with Overview data | 
 | Finn | Automated Deck generation | Queued | 5 days | Finn spends alot of time generating slides for stakeholders, which ends up being manual and slow. Automated deck creation from Sales-Kitchen visuals would speed up his productivity dramatically |
 | Max | Add US to Grandpar | Queued | 5 days | After the success of the European PAR automation, Max would like it extended to cover the US use case. This can be migrated to N8N for improved usability |
 | Lily Z | Rebuild Site Scraping | queued | 6 days | Site scraping for events was being used regularly by Lily, but the code is only partly working and needs rebuilding and debugging |
@@ -18,6 +17,7 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 | Date | Requestor | Request | Time taken. | Description |
 | --- | --- | --- | --- | --- |
+| 07/01/26 | Andrew H/Doug Jensen | Ops Analysis | 10 days | Brands have requested ops analysis. Seller Central Connections now enabled | 
 | 12/12/25 | Collin G | Ads Analysis Improvements | 20 days | Collin was spending considerable time (sometimes up to 3 or 4 hours a day) running Ads analysis manually. Sales-Kitchen now can generate automated slide decks | 
 | 24/11/25 | Kelly P | Lead Automation | 1 day | Created N8N flow to automate lead generation matching with accounts and account information for Marketing team |
 | 11/11/25 | Andrew H | Vendor Central Addition | 15 days | Addition to Seller Central to include Vendor Central - particularly useful to EMEA stakeholders, used in JBP too. May also touch on PAR topics |
@@ -27,7 +27,6 @@ Here you are able to see the current prioritisation of tech requested to be deve
 | 03/10/25 | Goutham & Chris | Build category explorer global view | 5 days | Goutham & Chris have requested that Category Insights data be made available to global audience. US customers have more data so they have an enriched version, but for global customers, no service was yet available |
 | 12/08/25 | Max P | Automate PAR | 10 days | EU PAR's were taking too long because of excel complexity. This needs to turned into an SQL pipeline for speed and efficiency |
 | 30/07/25 | Kelly | Automate Marketing Reporting | 10 days | to prove the successes of the team, stage 1 and 2's needed to be tracked, which is a manual process and can be automated |
-
 
 ---
 ## 📋 Current Instruction on Prioritisation
