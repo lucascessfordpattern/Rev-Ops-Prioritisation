@@ -4,13 +4,13 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 **Tasks are in order of priority** - Should you feel that your task needs prioritising, please reach out to Charlie Bevis for escalation and I will be happy to prioritise accordingly.
 
-| Requestor | Request | Status | Time Est. | Description |
+| Requestor | Request | Status | Time Estimate | Description |
 | --- | ---| --- | --- | ---|
 | Jon Mcgee | Auto Slides - Overview | In Progress | 10 days | Automatic exporting of Pattern themed slides with Overview data | 
 | Finn | Automated Deck generation | Queued | 5 days | Finn spends alot of time generating slides for stakeholders, which ends up being manual and slow. Automated deck creation from Sales-Kitchen visuals would speed up his productivity dramatically |
 | Max | Add US to Grandpar | Queued | 5 days | After the success of the European PAR automation, Max would like it extended to cover the US use case. This can be migrated to N8N for improved usability |
-| Lily Z | Rebuild Site Scraping | queued | 6 days | Site scraping for events was being used regularly by Lily, but the code is only partly working and needs rebuilding and debugging |
-| Lily Z | Create Contacts Lead Report | queued | 1 day | list of all contacts with an EMEA score above 210. This should a new tab called MQL in lily's report |
+| Lily Z | Rebuild Site Scraping | Queued | 6 days | Site scraping for events was being used regularly by Lily, but the code is only partly working and needs rebuilding and debugging |
+| Lily Z | Create Contacts Lead Report | Queued | 1 day | list of all contacts with an EMEA score above 210. This should a new tab called MQL in lily's report |
 
 ---
 ### ✅ Closed Tasks

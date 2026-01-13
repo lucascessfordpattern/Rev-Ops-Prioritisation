@@ -9,19 +9,19 @@ https://lucascessfordpattern.github.io/Rev-Ops-Prioritisation/
 - [ ] Pay for water
 - [ ] decide on insurance you want
 - [ ] change phone contract
-- [ ] change driving license with printed thing
-- [X] find out how to pay for service charge
+- [X] change driving license with printed thing
 - [ ] change shower cable
 - [ ] change u bend trap
 - [ ] fix paint spots
 - [ ] clean balcony and windows
 - [ ] get refund from dehumidifier
 - [ ] write will
-- [ ] get dads documents back to him
-- [ ] buy vitamins, magnesium
 - [ ] shut down the HL bank account
-
-
+- [ ] call aqualeak
+- [ ] redo window sealing
+- [ ] fix the blinking heater
+- [ ] fix mould issue
+ 
 #### ⚙️ work tasks
 ---
 Personal list which should not include the tasks in index.md, but can include subtasks of those tasks for tracking if needed
