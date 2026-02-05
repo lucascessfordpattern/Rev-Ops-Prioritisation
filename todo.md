@@ -4,46 +4,36 @@ https://lucascessfordpattern.github.io/Rev-Ops-Prioritisation/
 
 #### 🏡 home tasks
 ---
+
+# in progress
+- [X] new kitchen extension
+        asked landlords
+
+- take measurements of final sheets
+- mark them out on the 2 boards and the stretcher mdf stuff
+- see what's left
+- go cut it up!
+
 - [ ] valpolicella classico
 - [ ] patagonian pinot noir
-- [ ] Pay for water
 - [ ] decide on insurance you want
-- [ ] change phone contract
-- [X] change driving license with printed thing
 - [ ] change shower cable
-- [ ] change u bend trap
-- [ ] fix paint spots
 - [ ] clean balcony and windows
-- [ ] get refund from dehumidifier
 - [ ] write will
-- [ ] shut down the HL bank account
-- [ ] call aqualeak
 - [ ] redo window sealing
-- [ ] fix the blinking heater
-- [ ] fix mould issue
- 
+- [ ] fix the blinking heater tab
+- [ ] electrician jobs: new led lights, fix blinking heater pad, maybe pendant lights, install new ventilation extractor
+
 #### ⚙️ work tasks
 ---
 Personal list which should not include the tasks in index.md, but can include subtasks of those tasks for tracking if needed
 
-- [ ] get the flow setup for 100 files into one 
-- [ ] get raw data for Chris
 - [ ] Fix up the growth opportunity graph with custom
-- [ ] Scrape test
 - [ ] primary seller buybox explanation add into the column name
-- [ ] fix other 2 tables on overview where amazon link is always going to the US issue
-- [ ] fix vendor source names in selector
+- [ ] revenue impact by seller currency is broken
+- [ ] gnam pushing back on link generation of the SC/VC - can you teach me?
+- [ ] seller central data for blu intelligent
 
 ####
 US TRIP
 in sales suite, the file softy.py has a commented out section which you can use to test the back end of sales suite
-
-## google slides options
-In Google Slides API, “objects” are page elements such as:
-
-Text boxes (createShape)
-Images (createImage)
-Tables (createTable)
-Embedded charts (createSheetsChart)
-Lines or connectors (createLine)
-Each is added with a specific request type inside a batchUpdate call.
