@@ -5,15 +5,6 @@ https://lucascessfordpattern.github.io/Rev-Ops-Prioritisation/
 #### 🏡 home tasks
 ---
 
-# in progress
-- [X] new kitchen extension
-        asked landlords
-
-- take measurements of final sheets
-- mark them out on the 2 boards and the stretcher mdf stuff
-- see what's left
-- go cut it up!
-
 - [ ] valpolicella classico
 - [ ] patagonian pinot noir
 - [ ] decide on insurance you want
@@ -28,12 +19,12 @@ https://lucascessfordpattern.github.io/Rev-Ops-Prioritisation/
 ---
 Personal list which should not include the tasks in index.md, but can include subtasks of those tasks for tracking if needed
 
-- [ ] Fix up the growth opportunity graph with custom
-- [ ] primary seller buybox explanation add into the column name
-- [ ] revenue impact by seller currency is broken
-- [ ] gnam pushing back on link generation of the SC/VC - can you teach me?
-- [ ] seller central data for blu intelligent
-
+- [ ] get Claude up and working for use
+- [ ] get marketing and everything working on new app
+- [ ] update everyone on PAR tracking
+- [ ] airflow
+- [ ] new Streamlit financial summary
+ 
 ####
 US TRIP
 in sales suite, the file softy.py has a commented out section which you can use to test the back end of sales suite

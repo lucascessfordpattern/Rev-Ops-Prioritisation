@@ -6,8 +6,11 @@ Here you are able to see the current prioritisation of tech requested to be deve
 
 | Requestor | Request | Status | Time Estimate | Description |
 | --- | ---| --- | --- | ---|
-| Lily Z | Rebuild Site Scraping | Queued | 6 days | Site scraping for events was being used regularly by Lily, but the code is only partly working and needs rebuilding and debugging |
-| Lily Z | Create Contacts Lead Report | Queued | 1 day | list of all contacts with an EMEA score above 210. This should a new tab called MQL in lily's report |
+| Internal | Marketing App Migration | In Progress | TBD | Migrate marketing functionality and related components to new application infrastructure |
+| Internal | PAR Tracking Updates | Queued | TBD | Provide stakeholder updates on PAR tracking system status and implementation |
+| Internal | Airflow Configuration | Queued | TBD | Configure and deploy Airflow workflow management system |
+| Internal | Streamlit Financial Summary | Queued | TBD | Develop new Streamlit application for financial summary reporting |
+| Lily Z | Create Contacts Lead Report | Queued | 1 day | List of all contacts with an EMEA score above 210. This should a new tab called MQL in Lily's report |
 
 ---
 ### ✅ Closed Tasks
